@@ -11,8 +11,10 @@
 
 📸 Скриншоты
 
-![image](https://github.com/user-attachments/assets/28f8725a-b345-404d-ae9f-194070aa5bf1)
-![image](https://github.com/user-attachments/assets/1110a042-78c6-4cf8-a528-5618826f3524)
+<div style="display:flex;align-items:center">
+  <img src ="https://github.com/user-attachments/assets/28f8725a-b345-404d-ae9f-194070aa5bf1" width = "300px"/>
+  <img src ="https://github.com/user-attachments/assets/1110a042-78c6-4cf8-a528-5618826f3524" width = "300px"/>
+</div>
 
 ---
 
